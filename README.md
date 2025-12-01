@@ -2,7 +2,7 @@
 This project evaluates weather trends for capital cities across the world from 1995-2024. I also 
 built several machine learning models to forecast future temperatures.
 
-<p>This project uses the Capital Weather Dataset from Kaggle and includes:</p>
+<p>This project uses the <a href="https://colab.research.google.com/drive/1JqBVYvecBEiHC7ftoli6gDCt-DyCblcI?usp=sharing"Capital Weather Dataset</a> from Kaggle and includes:</p>
 <ul>
         <li>Climate trend analysis</li>
         <li>Change detections</li>
